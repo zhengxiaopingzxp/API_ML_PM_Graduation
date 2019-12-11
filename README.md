@@ -1,18 +1,18 @@
 # 毕业纪念手册的需求文档
 |产品的PRD设计|原型设计|机器学习之API的输出入展示
 |---------- | --- |---------- 
-|[PRD1-加值宣言](#chapter1) |[产品功能架构](#chapter1)|---------- 
-|[PRE2-核心价值](#chapter2) |[流程图](#chapter1)|---------- 
-|[PRD3-用户痛点宣言](#chapter3) |[全局说明](#chapter1)|----------
-|[产品简介](#chapter11) |[原型1.交互及界面设计](#chapter1) |---------- 
-|[产品背景](#chapter11) |[原型2.信息设计](#chapter1)|----------
-|[产品目标](#chapter11) |[原型3.原型文档](#chapter1)|---------- 
-|[用户画像](#chapter11) |[原型4.口头操作说明](#chapter1) |---------- 
-|[用户需求](#chapter11) |[Axure交互及设计低保真原型](#chapter1) |---------- 
-|[情景假设](#chapter11) | --- |----------
-|[考虑后不完成之项](#chapter11) | --- |---------- 
-|[PRD4-人工智能概率性与用户痛点](#chapter4)| --- |---------- 
-|[PRD5-需求列表与人工智能API加值](#chapter5)| --- |---------- 
+|[PRD1-加值宣言](#chapter1) |[产品功能架构](#chapter14)|API输入与输出(#chapter18)
+|[PRE2-核心价值](#chapter2) |[流程图](#chapter15)|API1.使用水平(#chapter19)
+|[PRD3-用户痛点宣言](#chapter3) |[原型1.交互及界面设计](#chapter17)|API3.使用后风险报告(#chapter20)
+|[产品简介](#chapter4) | [原型2.信息设计](#chapter17)|API4.加分项(#chapter21)
+|[产品背景](#chapter5) |[原型3.原型文档](#chapter17)|API5.最小完成项目(#chapter22)
+|[产品目标](#chapter6) |[Axure交互及设计低保真原型](#chapter17)|---------- 
+|[用户画像](#chapter7) |--- |---------- 
+|[用户需求](#chapter8) | --- |---------- 
+|[情景假设](#chapter9) | --- |----------
+|[考虑后不完成之项](#chapter10) | --- |---------- 
+|[PRD4-人工智能概率性与用户痛点](#chapter11)| --- |---------- 
+|[PRD5-需求列表与人工智能API加值](#chapter12)| --- |---------- 
 
 
 ## 产品的PRD设计
@@ -21,11 +21,12 @@
 
 ## PRD1-加值宣言
 
+> 百度的地标识别API的价值：
+- 借助地标识别api，可以上传自己所在地的景点或者建筑，进行地标打卡，并写下自己的故事。这样不仅能让朋友知道自己现在的状况，还能吸引朋友去当地游玩。生成地域人脉圈的同时，也丰富了旅游足迹，让人脉资源流动起来。
+
 > 腾讯云的大头贴api的价值：
 - 可以不用去专门拍大头贴的商店拍照，还要等冲洗的时间。在该系统中，和朋友拍大头贴后，可选择打印的方式。
 
-> 百度的地标识别API的价值：
-- 借助地标识别api，可以上传自己所在地的景点或者建筑，进行地标打卡，并写下自己的故事。这样不仅能让朋友知道自己现在的状况，还能吸引朋友去当地游玩。生成地域人脉圈的同时，也丰富了旅游足迹，让人脉资源流动起来。
 
 <h3 id="chapter2">二、PRD2-核心价值（阐述） </h3>
 
@@ -100,14 +101,15 @@
 
 ## 原型设计
 
-#### 产品架构图
+<h3 id="chapter14">一、产品架构图</h3>
 
 ![产品架构图](img/kuang.png)
 
-#### 产品流程图
+<h3 id="chapter15">二、产品流程图</h3>
 
 ![产品流程图](img/liu.png)
 
+<h3 id="chapter17">四、Axure原型文档交互展示</h3>
 
 ### [原型1.交互及界面设计](http://nfunm104.gitee.io/api_graduation)
 ### [原型2.信息设计](http://nfunm104.gitee.io/api_graduation)
@@ -139,14 +141,21 @@
 
 ##### [所有代码示例](https://github.com/zhengxiaopingzxp/API_ML_PM_Graduation/blob/master/%E5%9C%B0%E6%A0%87%E8%AF%86%E5%88%AB.ipynb)
 
-<h3 id="chapter21">四、API3.使用后风险报告</h3>
+<h3 id="chapter20">四、API3.使用后风险报告</h3>
 
 > 百度的地标识别api:
 - 有的人所处之地太偏僻，有时候识别不出他（她）的位置。
 > 腾讯云的大头贴api：
 - 大头贴的样式不是很多，难以满足用户需求。
 
-## 最小完成项
+
+<h3 id="chapter22">五、API4.加分项平</h3>
+
+- 用到的的api有地标识别api、大头贴拍照api、百度地图api
+- [所有代码示例](https://github.com/zhengxiaopingzxp/API_ML_PM_Graduation/blob/master/%E5%9C%B0%E6%A0%87%E8%AF%86%E5%88%AB.ipynb)
+
+<h3 id="chapter22">五、API5.最小完成项目</h3>
+
 - 地标识别：
 ![地标识别.png](https://upload-images.jianshu.io/upload_images/7563229-f6832fc51538093f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
