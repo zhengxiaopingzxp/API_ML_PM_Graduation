@@ -89,11 +89,11 @@
 ####  产品架构图
 
 
-![毕业纪念手册框架图](img/毕业纪念手册框架图.png)
+![毕业纪念手册框架图](img/kuang.png)
 
 #### 产品流程图
 
-![流程图](img/流程图.png)
+![流程图](img/liu.png)
 
 #### 产品原型
 ### [原型设计](http://nfunm104.gitee.io/api_graduation)
