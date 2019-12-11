@@ -148,7 +148,7 @@
 - 大头贴的样式不是很多，难以满足用户需求。
 
 
-<h3 id="chapter22">五、API4.加分项平</h3>
+<h3 id="chapter22">五、API4.加分项</h3>
 
 - 用到的的api有地标识别api、大头贴拍照api、百度地图api
 - [所有代码示例](https://github.com/zhengxiaopingzxp/API_ML_PM_Graduation/blob/master/%E5%9C%B0%E6%A0%87%E8%AF%86%E5%88%AB.ipynb)
