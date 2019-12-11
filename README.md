@@ -100,7 +100,6 @@
 
 ## 原型设计
 
-
 ####  产品架构图
 
 ![毕业纪念手册框架图](img/kuang.png)
@@ -109,9 +108,10 @@
 
 ![流程图](img/liu.png)
 
+
 ### [原型1.交互及界面设计](http://nfunm104.gitee.io/api_graduation)
 ### [原型2.信息设计](http://nfunm104.gitee.io/api_graduation)
-#### 产品原型
+### 产品原型
 ### [原型3.原型文档](http://nfunm104.gitee.io/api_graduation)
 ### [原型下载的地址](https://gitee.com/NFUNM104/API_Graduation)
 
@@ -122,7 +122,7 @@
 > 地标识别：
 - 将地标识别服务集成到识图APP/小程序中，识别照片中出现的中外著名地标、景点，广泛应用于综合识图场景。
 - 可以上传自己所处位置的著名景点或标志性建筑，并写在自己的故事。让大家知道自己身处何处，该处又有哪些诱人的地方。
-##### [详细代码示例]()
+##### [详细代码示例](https://github.com/zhengxiaopingzxp/API_ML_PM_Graduation/blob/master/%E5%9C%B0%E6%A0%87%E8%AF%86%E5%88%AB.ipynb)
 
 > 腾讯云的大头贴api:
 - 给定图片和大头贴编码，对原图进行大头贴特效处理
@@ -137,7 +137,7 @@
 - 输入：本地照片；输出：大头贴选择和编辑
 - 输入：故事；输出：详细信息，比如位置、详细说明等
 
-##### [所有代码示例]()
+##### [所有代码示例](https://github.com/zhengxiaopingzxp/API_ML_PM_Graduation/blob/master/%E5%9C%B0%E6%A0%87%E8%AF%86%E5%88%AB.ipynb)
 
 <h3 id="chapter21">四、API3.使用后风险报告</h3>
 
