@@ -100,13 +100,13 @@
 
 ## 原型设计
 
-####  产品架构图
+#### 产品架构图
 
-![毕业纪念手册框架图](img/kuang.png)
+![产品架构图](img/kuang.png)
 
 #### 产品流程图
 
-![流程图](img/liu.png)
+![产品流程图](img/liu.png)
 
 
 ### [原型1.交互及界面设计](http://nfunm104.gitee.io/api_graduation)
