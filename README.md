@@ -87,9 +87,14 @@
 
 ## 原型设计
 ####  产品架构图
+
+
 ![毕业纪念手册框架图](img/毕业纪念手册框架图.png)
+
 #### 产品流程图
+
 ![流程图](img/流程图.png)
+
 #### 产品原型
 ### [原型设计](http://nfunm104.gitee.io/api_graduation)
 ### [原型下载的地址](https://gitee.com/NFUNM104/API_Graduation)
